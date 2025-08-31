@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://deveshhhpawar.github.io/ALANKAA/", 
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
